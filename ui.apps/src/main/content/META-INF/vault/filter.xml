@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aemtraining_alfredo/clientlibs"/>
+    <filter root="/apps/aemtraining_alfredo/components"/>
+    <filter root="/apps/aemtraining_alfredo/i18n"/>
+</workspaceFilter>
